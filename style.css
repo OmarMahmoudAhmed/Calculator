@@ -1,6 +1,11 @@
 body {
     background-image: linear-gradient(to right, #34C4AC , #222324);
     
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    
     z-index: 0;
 }
 
